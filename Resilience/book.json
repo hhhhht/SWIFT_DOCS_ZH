@@ -1,0 +1,12 @@
+{
+    "title": "Resilience",
+    "description": "This document describes how Swift Resilience",
+    "language": "zh",
+    "license": "cc by nc sa 4.0",
+    "author": "haitao",
+    "x_proofread": "",
+    "x_origin_author": "gwynne",
+    "x_origin_url": "https://github.com/apple/swift/blob/main/docs/archive/Resilience.rst",
+    "x_origin_ctime": "14 Jan 2019",
+    "structure.glossary": "GLOSSARY.md"
+  }
